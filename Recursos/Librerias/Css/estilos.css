@@ -1,0 +1,130 @@
+/*HEADER*/
+header{
+	height: 10%;
+	background: black;
+}
+nav{
+	height: 10%;
+	width: 100%
+}
+section{
+	
+}
+footer{
+	height: 5%;
+	width: 100%;
+}
+
+#contacto2{
+margin-left: 3%;
+}
+#contacto3{
+margin-left: 3%;
+}
+.navbar{
+	margin-bottom: 0;
+}
+.nosotros{
+	width: 100%;
+}
+
+#jumContactenos{
+	background: #d2d6de;
+}
+#carrusel{
+	z-index: 0;
+	position: relative;
+}
+#indexEnca{
+	
+	background: #F39C12;
+	color: #fff;
+	height: 10%;
+
+}
+#contenidoJum{
+	background: #F39C12;
+	color: #fff;
+	height: 500px;
+	width: 100%;
+}
+
+#btnIniciarSes{
+	background: #d2d6de;
+	float: right;
+	margin-top: -4%;
+}
+#margenMenu{
+	margin-left:9%;
+	font-size:19px;
+	width: 100%;
+
+}
+#menu{
+	width:100%;
+	height:10%; 
+	background: #d2d6de;
+	z-index: 1;
+}
+
+/*hace que el menu se mueva*/
+.fixed{position:fixed;top:0;  padding-top:25px;}
+
+
+
+#barraNavegacion{
+
+    
+    width: 100%; /* Full width */
+    text-decoration: none;
+}
+
+
+.logo{
+	margin-top: -4%;
+	float:left;
+}
+
+.SFD{
+
+	margin-left: 16%;
+}
+
+.iconMenu{
+
+width: 10%;
+margin-right: 8%;
+}
+/*-- POST --*/
+
+/* -- Media Querie --*/
+@media screen and (max-width: 768px){
+	.post .thumb{
+		width: 100%;
+		margin-bottom: 20px;
+		margin-right: 0;
+	}
+}
+
+
+/*El boton del footer para suber a inicio*/
+
+.footer-bottom {
+    margin-top: 30px;
+	padding-top: 10px;
+	padding-bottom: 15px;
+
+	background:#F39C12;
+	text-align: center;
+}
+
+.footer-bottom a {
+	font-size: 200%;
+    color: #fff;
+    line-height: 40px;
+}
+
+
+
+
+
