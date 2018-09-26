@@ -1,0 +1,14 @@
+body{
+	background: #d2d6de;
+}
+#encabezado{
+	height: 160px;
+	background: #dd4b39;
+	margin-top: -10%;
+	
+}
+.titulo{
+	margin-left:20%;
+	margin-top: 3%;
+	color: white;
+}
