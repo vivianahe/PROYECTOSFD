@@ -1,0 +1,220 @@
+header{
+       height: 10px;
+       background: black;
+}
+nav{
+    width:100%;
+    font-size: 18px;
+    
+}
+#admin{
+    color:black;
+}
+
+#margenMenu{
+    margin-left: 10%;
+    z-index: 1;
+}
+.foot{
+   height: 30%;
+    width: 100%;
+}
+
+.logoo{
+    margin-top: -4%;
+    float:left;
+}
+.SFD{
+    margin-left: 15%;
+    margin-top: -2%;
+}
+
+#irarriba{
+    height: 60px;
+}
+/*Frm registrar empleado*/
+
+#FrmRegistrarEmpleado{
+   background: #EAEDED;
+}
+.formulario{
+    
+    margin-left: 30%;
+    margin-right: 30%;
+}
+#btnCerrarSesion{
+    margin-left: 20%;
+}
+#subirPedido{
+    margin-top: -0.2%;
+}
+/* Estilos facturacion*/
+
+#icono{
+    width: 5%;
+    height: 7%;
+    padding-bottom: 1%;
+    padding-left:1.5%;
+    padding-top: 1%;
+    background-color: #D57AD0;
+    border-radius: 20px;
+}
+
+#buscar{
+    width: 250px;
+    margin-top: 1%;
+    margin-left: 80%;
+    font-size: 20px;
+}
+#iconoBusqueda{
+    margin-left: 70%;
+}
+
+#datatablesEnca{
+     margin-top: -2.8%;
+      width: 100px;
+      margin-left: 10%;
+      font-size: 18px;
+}
+#opciones{
+    margin-top: -2%;
+    margin-left: 2%;
+    font-size: 18px;
+  
+}
+.cajaPrincipal{
+   height: 150px;
+}
+
+#numeros{
+    margin-left: 40%;
+    
+}
+
+.pagination>.page-item.active>a{
+    background-color: #BC2323  !important;
+    border-color: #BC2323  !important;
+    color: white;
+}
+.page-link:hover {
+     background-color: #BC2323  !important;
+    border-color: #BC2323  !important;
+       color: white;
+}
+#agregarMas{
+    margin-left: 20%;
+    margin-top: -4%;
+}
+
+
+/* Fin facturacion*/
+
+/*estilos grficas*/
+#graficas{
+    margin-top: 5%;
+    margin-left: 15%;
+    width: 70%;
+    height: 300px;
+    border: 4px solid #d61730;
+}
+#imagenG{
+    width: 80%;
+    height: 300px;
+    margin-top: -20%;
+    margin-left: 10%;
+    border: 1px solid #798897;
+  
+}
+
+#tituloG{
+    margin-left: 18%;
+}
+#grafica2{
+    margin-top: -22%;
+    margin-left: 55%;
+    width: 70%;
+    height: 300px;
+    border: 4px solid #d61730;
+}
+
+/*MODAL REGISTRARSE*/
+#categoriaFM{
+    margin-left: 3%;
+    width: 60%;
+}
+#iconosFM{
+margin-left: 30%;
+}
+
+#totalFM{
+     float: right;
+}
+/*fin estilo grficas*/
+
+/*Estilos card productos*/
+
+#cardProductos{
+    height: 400px;
+}
+
+#cardHamburguesas{
+    height: 300px;
+}
+#cardSandwiches{
+    height: 300px;
+}
+
+/*lISTA CLIENTES*/
+#datatablesEncaC{
+
+      width: 100px;
+      float:right;
+      font-size: 18px;
+}
+#opcionesC{
+   
+    font-size: 18px;
+
+}
+
+.organizar{
+    margin-top: -4.4%;
+    margin-left: 2%;
+    width: 15%;
+     
+}
+.centarIconoClientes{
+    margin-left: 25%;
+}
+
+/*Estilos encima tabla empleado*/
+#btnEmpleadoNuevo{
+     margin-left: 20%;
+    margin-top: -4%;
+}
+
+#TituloEmpleados{
+    margin-top: 2%;
+}
+
+#opcionesE{
+    margin-top: -2%;
+    margin-left: 2%;
+    font-size: 18px;
+}
+#buscarE{
+    width: 250px;
+    margin-top: -3%;
+    margin-left: 80%;
+    font-size: 20px;
+}
+
+/*fIN*/
+
+/*Estilos encima tabla CLIENTE*/
+#buscarC{
+    width: 250px;
+    margin-top: -3%;
+    margin-left: 80%;
+    font-size: 20px;
+}

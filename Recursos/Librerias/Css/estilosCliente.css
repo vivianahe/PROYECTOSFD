@@ -1,0 +1,118 @@
+/*HEADER*/
+header{
+    height: 10%;
+    background: black;
+}
+
+nav{
+    height: 10%;
+    width: 100%
+}
+section{
+
+}
+footer{
+    height: 100px;
+    width: 100%;
+  
+}
+
+.TodoMenu{
+    width: 140%;
+}
+.ListaMenu{
+    margin-left: 52%;
+    width: 10% ;
+}
+.Perfil{
+    margin-left:10%;
+}
+
+#indexClienteEnca{
+
+    background: #d2d6de;
+    color: #fff;
+    height: 10px;
+
+}
+#menu{
+   background: #00a4e4;
+    position: relative;
+
+}
+a{
+    color: white;
+}
+#tamañoC{
+    min-width: 13rem;
+    min-height: 3rem;
+    background:#00bce4;
+
+
+}
+#BotonCerrarSesionC{
+    margin-left: 20px;
+    margin-top: 10%;
+    color: white;
+
+}
+#BotonPerfil{
+    margin-left: 5px;
+    margin-top: 10%;
+    color: white;
+
+
+}
+#nombreC{
+    margin-top:  1.4%;
+}
+#letra{
+    color: white;
+    font-size: 18px;
+}
+#irarriba{
+   background:#00a4e4; 
+}
+#margenMenu{
+    margin-left:9%;
+    font-size:19px;
+    width: 60%;
+   
+}
+
+/*hace que el menu se mueva*/
+.fixed{position:fixed;top:0;  padding-top:25px;}
+
+
+/* -- Media Querie --*/
+@media screen and (max-width: 768px){
+    .post .thumb{
+        width: 100%;
+        margin-bottom: 20px;
+        margin-right: 0;
+    }
+}
+
+
+/*El boton del footer para suber a inicio*/
+
+.footer-bottom {
+    margin-top: 80px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    cursor: pointer;
+    background:#00a4e4;
+    text-align: center;
+}
+
+.footer-bottom a {
+    font-size: 200%;
+    color: #fff;
+    line-height: 40px;
+}
+
+
+
+
+
+
